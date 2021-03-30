@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e95e8c18-465d-4bae-b18f-3381e02aae62" name="Default Changelist" comment="" />
+    <list default="true" id="e95e8c18-465d-4bae-b18f-3381e02aae62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hms/doctor/include/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/hms/doctor/include/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hms/include/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/hms/include/config.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lVWDrhqvkYKPQHjrXMbgPSNTCZ" />
   <component name="ProjectViewState">
@@ -45,6 +51,7 @@
       <workItem from="1608135392680" duration="7239000" />
       <workItem from="1608174288382" duration="1633000" />
       <workItem from="1614894238351" duration="55000" />
+      <workItem from="1617069474247" duration="4000" />
     </task>
     <servers />
   </component>
